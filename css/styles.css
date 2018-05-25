@@ -3,22 +3,42 @@ h1{
 }
 img{
   float: right;
+  max-width: 100%;
+  height: auto;
 
 }
-.jumbotron{
-  padding-top: 20px;
-  padding-bottom: 20px;
+.jumbotron {
+  border-style: dott ed;
+  border-color: black;
+  border-radius: 25px;
 }
-.img{
-  float: right;
-  margin-bottom: 5px;
+
+}
+
+}
+
 }
 }
 .well{
-  color: inherit;
+  border-style: dashed;
+  border-color: black;
+  border-radius: 10px;
+
 
 }
 .col{
 
 color: blue;
+}
+body{
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.about {
+font-family: sans-serif;
+
+
+}
+.panel-body {
+  margin: 15px;
+}
 }
