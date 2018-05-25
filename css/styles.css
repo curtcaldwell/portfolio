@@ -1,44 +1,33 @@
-h1{
-  te
-}
 img{
   float: right;
-  max-width: 100%;
+  max-width: 110px;
   height: auto;
-
+  vertical-align: right;
 }
 .jumbotron {
-  border-style: dott ed;
-  border-color: black;
-  border-radius: 25px;
-}
-
-}
-
-}
-
-}
+  border-style: solid;
+  border-color: gray;
+  border-radius: 10px;
+  background-color: white;
+  padding: 10px;
 }
 .well{
-  border-style: dashed;
+  border-style: solid;
   border-color: black;
   border-radius: 10px;
-
-
-}
-.col{
-
-color: blue;
 }
 body{
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: lightblue;
 }
 .about {
 font-family: sans-serif;
-
-
+font-size: 18px;
+text-align: center;
 }
 .panel-body {
   margin: 15px;
+}
+li {
+font-family: skia;
 }
 }
